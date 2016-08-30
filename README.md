@@ -1,6 +1,6 @@
-# LZW compression implementation in pure C
+# LZW (de)compression implementation in pure C
 
-This is implementation LZW in pure C. Thanks to Steve Blackstock !
+This is implementation LZW algorithm in pure C. Thanks to Steve Blackstock !
 
 NOTE: Currently is not work
 
