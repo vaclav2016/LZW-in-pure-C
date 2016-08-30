@@ -4,7 +4,7 @@ This is implementation LZW algorithm in pure C. Thanks to Steve Blackstock !
 
 NOTE: Currently is not work
 
-## Installation
+## Build
 
     $ make
 
